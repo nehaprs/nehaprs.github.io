@@ -1,0 +1,43 @@
+---
+layout: splash
+title: "Neha Sindhu"
+excerpt: "Bioinformatics • scRNA‑seq • Multi‑omics • HPC"
+header:
+  overlay_color: "#000"
+  overlay_filter: 0.25
+  overlay_image: /assets/images/banner.jpg
+  actions:
+    - label: "Download CV"
+      url: "/assets/cv.pdf"
+      class: "btn btn--primary"
+    - label: "Email me"
+      url: "mailto:you@example.com"
+      class: "btn"
+intro: 
+  - excerpt: 'I am a bioinformatics researcher working on Single-Cell Omics and Multi-Omics.'
+feature_row:
+  - image_path: /assets/images/feat_scrna.jpg
+    alt: "scRNA-seq"
+    title: "Single‑cell RNA‑seq"
+    excerpt: "Clustering, integration, trajectory inference, and annotation."
+    url: "/projects/#single-cell"
+    btn_label: "See work"
+    btn_class: "btn--small"
+  - image_path: /assets/images/feat_multiomics.jpg
+    alt: "Multi-omics"
+    title: "Multi‑omics Integration"
+    excerpt: "OnPLS / O2PLS / JUMBA to connect transcriptome, proteome, and beyond."
+    url: "/projects/#multi-omics"
+    btn_label: "See work"
+    btn_class: "btn--small"
+  - image_path: /assets/images/feat_hpc.jpg
+    alt: "HPC"
+    title: "HPC & Reproducibility"
+    excerpt: "Containers, clusters, and CI to make analyses portable and reliable."
+    url: "/projects/#hpc"
+    btn_label: "See work"
+    btn_class: "btn--small"
+---
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row %}

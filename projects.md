@@ -7,7 +7,7 @@ Below are a few representative projects. Reach out if you’d like details or co
 
 ## Single‑cell analyses {#single-cell}
 - **Neural crest atlas** — Seurat + trajectory inference; annotation via transfer learning.
-- **QC & integration pipeline** — Reproducible scRNA‑seq workflow (containers + CI).
+- **QC & integration pipeline** — Reproducible scRNA‑seq workflow
 
 ## Multi‑omics integration {#multi-omics}
 - **O2PLS** — Linking transcriptomic and proteomic signatures.
@@ -15,4 +15,4 @@ Below are a few representative projects. Reach out if you’d like details or co
 
 ## HPC & reproducibility {#hpc}
 - **Cluster‑ready pipelines** — Singularity/Docker images + Slurm templates.
-- **Results you can rerun** — Versioned data + environment capture.
+  

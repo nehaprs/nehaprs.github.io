@@ -1,6 +1,6 @@
 title: "Neha Sindhu"
 name: "Neha Sindhu"
-description: "Bioinformatics • scRNA‑seq • Multi‑omics • HPC"
+description: "Bioinformatics • scRNA‑seq • Multi‑omics • AI/ML"
 url: "https://nehaprs.github.io"   # no trailing slash
 baseurl: ""                        # keep empty for user site
 repository: "nehaprs/nehaprs.github.io"
@@ -26,7 +26,7 @@ plugins:
 author:
   name: "Neha Sindhu"
   avatar: "/assets/images/avatar.jpg"   # upload later
-  bio: "Bioinformatics scientist. scRNA‑seq, multi‑omics integration, and HPC workflows."
+  bio: "Bioinformatics scientist. scRNA‑seq, multi‑omics integration, and AI/ML workflows."
   location: "Newark, DE"
   links:
     - label: "GitHub"

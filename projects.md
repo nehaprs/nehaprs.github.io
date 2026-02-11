@@ -6,11 +6,18 @@ permalink: /projects/
 Below are a few representative projects. Please reach out if you’d like more details or to work together.
 
 ## Single‑cell analyses {#single-cell}
+<ul>
+  <li>
 • Single‑cell RNAseq analyses on mouse and frog models to study
 the gene regulatory networks in neural crest migration during embryonic development.
+  </li>
+
+  <li>
 • AI‑based and classical cell type annotations, integration, and trajectory analysis,
 and data visualization with interpretation of the single-cell RNAseq data to trace the differentiation
 of neural crest cell types.
+  </li>
+</li>
 
 ## Multi‑omics integration {#multi-omics}
 Applied genomic technologies to predict the substrates and targets of ADAM9 metalloproteinase

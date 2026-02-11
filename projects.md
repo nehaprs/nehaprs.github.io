@@ -46,7 +46,8 @@ membrane proteins with minimal modifications.
  </li>
  
 </ul>
-## Omics in drug development 
+
+## Omics in drug development {#drug-devl}
 <ul>
   <li>
  Paired‑design RNAseq to study the effect of drug treatment on stag2 mutant mouse models.

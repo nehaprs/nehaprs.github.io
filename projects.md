@@ -13,7 +13,7 @@ the gene regulatory networks in neural crest migration during embryonic developm
   </li>
 
   <li>
- AI‑based and classical cell type annotations, integration, and trajectory analysis,
+ AI‑based and classical cell type annotations, integration, RNA velocity and pseudotime trajectory analysis,
 and data visualization with interpretation of the single-cell RNAseq data to trace the differentiation
 of neural crest cell types.
   </li>
@@ -54,6 +54,10 @@ membrane proteins with minimal modifications.
   
   <li>
  Drug sensitivity test for novel anti‑osteoarthritis drugs using RNAseq of bovine cartilage.
+  </li>
+
+  <li>
+ Differential expression analysis of Parkinsons' drug on mouse models.
   </li>
 </ul>
 

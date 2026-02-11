@@ -5,11 +5,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Blog"
-    url: /blog/
+  - title: "Book Recommendations"
+    url: /book-recs/
   - title: "CV"
     url: /assets/cv.pdf

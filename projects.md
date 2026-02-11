@@ -17,26 +17,58 @@ the gene regulatory networks in neural crest migration during embryonic developm
 and data visualization with interpretation of the single-cell RNAseq data to trace the differentiation
 of neural crest cell types.
   </li>
-</li>
+</ul>
 
 ## Multi‑omics integration {#multi-omics}
+<ul>
+  <li>
 Applied genomic technologies to predict the substrates and targets of ADAM9 metalloproteinase
 and understand its mechanism using colon cancer cell lines.
+  </li>
+
+  <li>
 • Leverages sequencing methods, including differential expression analysis and machine learning,
 to integrate RNAseq, Cellular Proteomics, and Secretomics Datasets.
+  </li>
+
+  <li>
 • Regression models to predict 176 transcriptional and 1041 post‑transcriptional targets
 of ADAM9, including 188 substrates with ranked levels of confidence.
+  </li>
+
+  <li>
 • Pathway enrichment analysis to validate two downstream pathways.
+  </li>
+
+  <li>
 • A computational and statistical proteotranscriptomics method is developed, applicable to different
 membrane proteins with minimal modifications.
-
+ </li>
+ 
+</ul>
 ## Omics in drug development 
+<ul>
+  <li>
 • Paired‑design RNAseq to study the effect of drug treatment on stag2 mutant mouse models.
+  </li>
+  
+  <li>
 • Drug sensitivity test for novel anti‑osteoarthritis drugs using RNAseq of bovine cartilage.
+  </li>
+</ul>
 
 ## Machine Learning projects
+<ul>
+  <li>
 • Developed models to integrate recursive algorithms with predictive analytics for disease
 transmission. Used this to model the spread of COVID‑19 in Delaware.
-• Developed a machine learning model to predict the co-occurrence of substance use disorders and mood disorders using publicly available datasets.
-• Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from [The Kidney Tissue Atlas](https://atlas.kpmp.org/), to classify the various subtypes of the disease.
+  </li>
 
+  <li>
+• Developed a machine learning model to predict the co-occurrence of substance use disorders and mood disorders using publicly available datasets.
+  </li>
+
+  <li>
+• Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from [The Kidney Tissue Atlas](https://atlas.kpmp.org/), to classify the various subtypes of the disease.
+  </li>
+</ul>

@@ -57,7 +57,7 @@ membrane proteins with minimal modifications. <a href="https://github.com/nehapr
 <ul>
   <li>
  Paired‑design RNAseq to study the effect of drug treatment on stag2 mutant mouse models. <a href="https://github.com/nehaprs/hippocampus" target="_blank">
-    (code)
+    code
   </a>
   </li>
   

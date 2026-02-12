@@ -88,7 +88,7 @@ transmission. Used this to model the spread of COVID‑19 in Delaware.  <a href=
   </li>
 
   <li>
- Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from [The Kidney Tissue Atlas](https://atlas.kpmp.org/), to classify the various subtypes of the disease. <a href="https://github.com/nehaprs/KPMP_ML" target="_blank">
+ Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from The Kidney Tissue Atlas (https://atlas.kpmp.org/), to classify the various subtypes of the disease. <a href="https://github.com/nehaprs/KPMP_ML" target="_blank">
     (code)
   </a>
   </li>

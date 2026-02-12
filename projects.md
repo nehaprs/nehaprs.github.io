@@ -11,14 +11,14 @@ Below are a few representative projects. Please reach out if you’d like more d
  Single‑cell RNAseq analyses on *Xenopus* models to study
 the gene regulatory networks in neural crest migration during embryonic development. Performed cell type annotations, integration, RNA velocity and pseudotime trajectory analysis, and data visualization with interpretation of the single-cell RNAseq data to trace the differentiation
 of neural crest cell types. <a href="https://github.com/nehaprs/DorsalMigration" target="_blank">
-    (code)
+    code
   </a>
   </li>
 
   <li>
  Validated two mouse reporter lines for neural crest, and integrated these single‑cell datasets
 from two mouse lines to identify marker gene expression patterns. <a href="https://github.com/nehaprs/NeuralCrest_singlecell" target="_blank">
-    (code)
+    code
   </a>
   </li>
 </ul>
@@ -47,7 +47,7 @@ of ADAM9, including 188 substrates with ranked levels of confidence.
   <li>
  A computational and statistical proteotranscriptomics method is developed, applicable to different
 membrane proteins with minimal modifications. <a href="https://github.com/nehaprs/Multi_omics" target="_blank">
-    (code)
+    code
   </a>
  </li>
  
@@ -67,7 +67,7 @@ membrane proteins with minimal modifications. <a href="https://github.com/nehapr
 
   <li>
  Differential expression analysis of Parkinsons' drug on mouse models. <a href="https://github.com/nehaprs/parkinsons" target="_blank">
-    (code)
+    code
   </a>
   </li>
 </ul>
@@ -77,19 +77,19 @@ membrane proteins with minimal modifications. <a href="https://github.com/nehapr
   <li>
  Developed models to integrate recursive algorithms with predictive analytics for disease
 transmission. Used this to model the spread of COVID‑19 in Delaware.  <a href="https://github.com/nehaprs/LearningCovid" target="_blank">
-    (code)
+    code
   </a>
   </li>
 
   <li>
  Developed a machine learning model to predict the co-occurrence of substance use disorders and mood disorders using publicly available datasets. <a href="https://github.com/nehaprs/Personal-Projects/tree/main/Mental%20Health" target="_blank">
-    (code)
+    code
   </a>
   </li>
 
   <li>
  Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from The Kidney Tissue Atlas (https://atlas.kpmp.org/), to classify the various subtypes of the disease. <a href="https://github.com/nehaprs/KPMP_ML" target="_blank">
-    (code)
+    code
   </a>
   </li>
 </ul>

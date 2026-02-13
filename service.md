@@ -6,7 +6,6 @@ permalink: /service/
  **Member, Outreach Committee, Association for Women in Science, Philadelphia.** (June 2025‑Present)
   
  • Planning and execution of community outreach programs of AWIS-PHL.
- 
  • Launched a member spotlight program featuring outstanding AWIS-PHL members across social media platforms.
   
  **Member, International Student Advisory Committee (ISAC)**, University of Delaware. (June 2024‑May 2025)

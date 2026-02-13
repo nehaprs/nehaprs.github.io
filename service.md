@@ -4,6 +4,12 @@ permalink: /service/
 ---
 
 
+<figure style="text-align:center; margin: 20px 0;">
+  <img src="/assets/images/sevice-collage.jpeg"
+       alt="service-pictures"
+       width="400"
+       style="display:block; margin: 0 auto;">
+  </figure>
 
  **Member, Outreach Committee, Association for Women in Science, Philadelphia.** (June 2025‑Present)
   

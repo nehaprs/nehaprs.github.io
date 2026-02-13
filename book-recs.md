@@ -13,34 +13,15 @@ The story of Henrietta Lacks is *the* book to be reckoned with in bioethics and 
 aided in the development of numerous drugs and vaccines, and continues to do so. The book juxtaposes it with the heart-wrenching human story. The book is exceptional in many ways, but most of all,
 it aptly illustrates enduring and escalating questions about research use of human biospecimens.
 
+## Neanderthal Man: In Search of Lost Genomes by Svante Pääbo
+
+This book is not really about Neanderthals. Rather, it is a biography of a large bioinformatics project through its life cycle, told by the principal investigator who went on to win Nobel Prize for this project. The author, Svante Pääbo is the 2022 Nobel laureate in physiology and medicine for the assembly of the Neanderthal genome, pioneering the DNA sequencing of ancient/incomplete samples. For early career researchers like me, it is interesting to see how a project evolves across decades, across PhD students like us who hop on the journey for a few years, and then go on to chart our own separate paths. This book offers a transparent look into the scientific odyssey of the few people who spend decades on this one scientific question, and how they create their life's work. Must-read for any aspiring bioinformatician.
 
 ## The Emperor of All Maladies by Siddhartha Mukherjee
 As far as popular literature is concerned, this is the most impactful text about cancer. It is comprehensive, beginning right from the prehistoric clues about the disease, and addresses every possible dimension of cancer studies, care, and cure.
 
 It took me a year to finish reading the book. It being a 700+ page behemoth didn't help, but mostly because it is as heartbreaking as it is informative.
-I couldn't go on beyond a few pages without a defeatist alarm on behalf of humankind - how, after all this time, this monster of a disease still eludes a comprehensive solution is oddly humbling and inspirational at once. 
-
-## Neanderthal Man: In Search of Lost Genomes by Svante Pääbo
+I couldn't go on beyond a few pages without a defeatist alarm on behalf of humankind - how, after all this time, this monster of a disease still eludes a comprehensive solution! It is oddly humbling and inspirational at once. 
 
 
-## Machine Learning projects
-<ul>
-  <li>
- Developed models to integrate recursive algorithms with predictive analytics for disease
-transmission. Used this to model the spread of COVID‑19 in Delaware.  <a href="https://github.com/nehaprs/LearningCovid" target="_blank">
-    code
-  </a>
-  </li>
 
-  <li>
- Developed a machine learning model to predict the co-occurrence of substance use disorders and mood disorders using publicly available datasets. <a href="https://github.com/nehaprs/Personal-Projects/tree/main/Mental%20Health" target="_blank">
-    code
-  </a>
-  </li>
-
-  <li>
- Unsupervised integration of biomarker and clinical KPMP data to reveal subtypes of chronic kidney disease. Chronic Kidney Disease(CKD) is characterized by gradual loss of the kidney's ability to filter waste from the blood. In this project, we combine clinical and biomarker data of patients diagnosed with CKD, obtained from The Kidney Tissue Atlas (https://atlas.kpmp.org/), to classify the various subtypes of the disease. <a href="https://github.com/nehaprs/KPMP_ML" target="_blank">
-    code
-  </a>
-  </li>
-</ul>

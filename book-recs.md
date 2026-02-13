@@ -4,7 +4,7 @@ permalink: /book-recs/
 ---
 
 This is a growing list of books that have helped me become a better bioinformatician and a life scientist. Not training materials or study guides, obviously. This is a list of non-fictions that at some point I picked up as say, bedtime reads,
-and ended up leaving a mark on my professional identity. This includes books that reminded me how meaningful our works are, how enjoyable the act of research is, or spotlighted the downstream effects we sometimes take for granted. 
+and ended up leaving a mark on my professional identity. It includes books that reminded me how meaningful our works are, how enjoyable the act of research is, or spotlighted the downstream effects we sometimes take for granted. 
 The uniting factor of this list is that they all left me with the resources or drive to do better. I hope you too get to pick a favorite from here!
 
 
@@ -23,5 +23,13 @@ As far as popular literature is concerned, this is the most impactful text about
 It took me a year to finish reading the book. It being a 700+ page behemoth didn't help, but mostly because it is as heartbreaking as it is informative.
 I couldn't go on beyond a few pages without a defeatist alarm on behalf of humankind - how, after all this time, this monster of a disease still eludes a comprehensive solution! It is oddly humbling and inspirational at once. 
 
+## The Genome War by James Shreeve
+The assembly of the human genome is how I first heard of the field of bioinformatics. I was a wide-eyed tween who thought it was all borderline magical. Years later, this book put the spin of a veritable thriller on the story. It goes into the competition between the largely public Human Genome Project and the private sector company Celera Genomics. It addresses the human factors inherent in every great work of science and how the same goal can take many shapes based on the designs of the key players. A training manual  about the business of doing science.
+
+## Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John Green
+
+Spoiler alert: Henry lives. Thrives, actually.
+
+What kind of non-fiction needs a spoiler alert, you ask? An extraordinarily well-written one. John Green actually wrote a thoroughly researched book about a bacterial infection that's so gripping that this reader finished it in two reading sessions. It has history, facts, statistics, and stories of injustices, and survival despite it all. And also hidden among them, a highly deserving biography of Henry Reider.
 
 

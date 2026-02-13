@@ -7,5 +7,7 @@ main:
     url: /publications/
   - title: "Book Recs"
     url: /book-recs/
+  - title: "Service"
+    url: /service/
   - title: "CV"
     url: /assets/NehaSindhu-v3-Resume.pdf

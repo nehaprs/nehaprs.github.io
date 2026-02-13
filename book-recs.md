@@ -37,7 +37,7 @@ I couldn't go on beyond a few pages without a defeatist alarm on behalf of human
      
 The assembly of the human genome is how I first heard of the field of bioinformatics. I was a wide-eyed tween who thought it was all borderline magical. Years later, this book put the spin of a veritable thriller on the story. It goes into the competition between the largely public Human Genome Project and the private sector company Celera Genomics. It addresses the human factors inherent in every great work of science and how the same goal can take many shapes based on the designs of the key players. A training manual  about the business of doing science.
 
-## Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John Green
+## Everything Is Tuberculosis by John Green
 <img src="/assets/images/tuberculosis.jpg" alt="Book cover"
      width="300">
      

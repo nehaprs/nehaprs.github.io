@@ -24,7 +24,7 @@ permalink: /service/
   
  **Vice-President, Bioinformatics Student Association**, University of Delaware. (Sep 2022 ‑ Feb 2023)
   
- - Supported the president in the duties.
+ - Supported the president in their duties.
 
  **Communications Coordinator, Bioinformatics Student Association**, University of Delaware. (Feb 2022 ‑ Aug 2022)
   

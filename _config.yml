@@ -25,10 +25,9 @@ plugins:
 # Author profile (shows in sidebar on pages with author_profile: true)
 author:
   name: "Neha Sindhu"
-  avatar: "/assets/images/avatar.jpg"   # upload later
+  avatar: "/assets/images/avatar.jpg"   
   bio: "Bioinformatics scientist. scRNA‑seq, multi‑omics integration, and ML workflows."
-  location: "Newark, DE"
-  links:
+    links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nehaprs"

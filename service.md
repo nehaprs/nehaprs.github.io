@@ -5,7 +5,7 @@ permalink: /service/
 
 
 <figure style="text-align:center; margin: 20px 0;">
-  <img src="/assets/images/sevice-collage.jpeg"
+  <img src="/assets/images/service-collage.jpg"
        alt="service-pictures"
        width="400"
        style="display:block; margin: 0 auto;">

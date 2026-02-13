@@ -66,7 +66,7 @@ membrane proteins with minimal modifications. <a href="https://github.com/nehapr
   </li>
 
   <li>
- Differential expression analysis of Parkinsons' drug on mouse models. <a href="https://github.com/nehaprs/parkinsons" target="_blank">
+ Differential expression analysis of Parkinsons' drug on mouse models, deploying NextFlow pipelines. <a href="https://github.com/nehaprs/parkinsons" target="_blank">
     code
   </a>
   </li>

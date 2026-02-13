@@ -5,7 +5,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "Book Recommendations"
+  - title: "Book Recs"
     url: /book-recs/
   - title: "CV"
     url: /assets/cv.pdf

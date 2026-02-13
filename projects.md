@@ -8,7 +8,7 @@ Below are a few representative projects. Please reach out if you’d like more d
 ## Single‑cell analyses 
 <ul>
   <li>
- Single‑cell RNAseq analyses on *Xenopus* models to study
+ Single‑cell RNAseq analyses on <i>Xenopus</i> models to study
 the gene regulatory networks in neural crest migration during embryonic development. Performed cell type annotations, integration, RNA velocity and pseudotime trajectory analysis, and data visualization with interpretation of the single-cell RNAseq data to trace the differentiation
 of neural crest cell types. <a href="https://github.com/nehaprs/DorsalMigration" target="_blank">
     code
